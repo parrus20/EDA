@@ -1,4 +1,4 @@
-# IPLEDA
+# FIFA-EDA
 # Part 1
 # FIFA Dataset Analysis
 
